@@ -21,7 +21,7 @@ public class Game {
   
 
     public static void main (String []args) {
-        System.out.println("Hello");
+        System.out.println("Hello my name is Jeff");
         Game Spiel = new Game() ;
         
         
